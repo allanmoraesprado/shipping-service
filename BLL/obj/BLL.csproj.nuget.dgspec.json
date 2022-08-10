@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\BLL\\BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\084075\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\084075\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.15.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\084075\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\084075\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DTO\\DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DTO\\DTO.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

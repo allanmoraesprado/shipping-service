@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AoPoR5rRjfYh8lz5DqbLwsSZlj7Z7K+VWtw20dG4iguiwhIAYsFnWWZ1n5pnLoJXgo3GxWvU3oQoDIzP9jv83A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\084075\\Desktop\\Projetos\\SinoTotalExpress\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\084075\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
